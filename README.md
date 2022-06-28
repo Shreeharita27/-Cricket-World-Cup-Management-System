@@ -12,9 +12,9 @@ https://build-system.fman.io/qt-designer-download
 
 
 ## STEPS TO BE FOLLOWED:
-Step 1: Extract the given zip folder. 
-Step 2 : Open Visual Studio.
-Step 3: Click on Open folder.
+Step 1: Extract the given zip folder.<br />
+Step 2 : Open Visual Studio.<br />
+Step 3: Click on Open folder.<br />
 
 ![image](https://user-images.githubusercontent.com/59958361/176100438-b3fde2ee-0f4b-44ac-b192-4a0b1a1d44e1.png)
 
