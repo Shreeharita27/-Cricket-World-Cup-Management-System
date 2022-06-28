@@ -34,8 +34,8 @@ Step 7 : The following window will open. Icons may or may not be displayed.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104107-dc45d8bf-7e30-4176-9c9a-a1b22c89623e.png)
 
-1.USER (Get information about World cup teams, players, matches etc)
-1.1 : To get Teams information go to Teams tab<br />
+## 1.USER (Get information about World cup teams, players, matches etc)
+#### 1.1 : To get Teams information go to Teams tab<br />
 •	If you are a normal user you can get all details about Worldcup in the USER tab. 
 
 ![image](https://user-images.githubusercontent.com/59958361/176104150-3c788ac6-2be8-47c2-8d6f-292d796cd9e9.png)
@@ -104,7 +104,7 @@ Batsmen and Bowlers of a particular team.
 ![image](https://user-images.githubusercontent.com/59958361/176105115-a42a7a69-b956-4465-89b4-ecfa91b68df9.png)
 
 
-2.ADMIN<br />
+## 2.ADMIN<br />
 •	If you are admin enter your username(vikram) and password( vikky625 ) and click Login. <br />
 •	Another window will open where all the admin activities can be done.
  
