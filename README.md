@@ -48,7 +48,7 @@ https://build-system.fman.io/qt-designer-download
 
 ![image](https://user-images.githubusercontent.com/59958361/176104361-748db21b-3d52-41d4-b6e7-d99de3fd835f.png)
 
-1.2 : To get player info open Player tab<br />
+#### 1.2 : To get player info open Player tab<br />
 •	In player tab you can enter team Id and get all players by clicking All players,
 Batsmen and Bowlers of a particular team.
 
@@ -68,7 +68,7 @@ Batsmen and Bowlers of a particular team.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104612-ab68c610-4620-44cb-b67b-52b20d3e840c.png)
 
-1.3 : To get info about matches open Matches tab<br />
+#### 1.3 : To get info about matches open Matches tab<br />
 •	Get info of all matches by clicking display all matches.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104658-24683a25-3e5f-4b14-a091-f29b3fdcb65a.png)
@@ -81,7 +81,7 @@ Batsmen and Bowlers of a particular team.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104722-d0f766d9-be3c-495a-890b-0a708bbfbc1f.png)
 
-1.4 :  To get captain, stadiums, coaches, umpires info open Other Info tab<br />
+#### 1.4 :  To get captain, stadiums, coaches, umpires info open Other Info tab<br />
 
 •	click Display all captains  to get info of captains of all teams.
 
@@ -111,7 +111,7 @@ Batsmen and Bowlers of a particular team.
  ![image](https://user-images.githubusercontent.com/59958361/176105143-1f07c3a1-0c3f-42a9-b081-9c5d4ff5204e.png)
 
 
-2.1 :  To schedule matches and update result go to SCHEDULE MATCHES tab<br />
+#### 2.1 :  To schedule matches and update result go to SCHEDULE MATCHES tab<br />
 •	To schedule a match enter Team ids of both teams ,the date and time of match ,it’s venue(stadium) and 3 umpires who will umpire the matches<br />
 •	Then click schedule. A confirmation message is displayed with match number<br />
 Click ok.
@@ -129,7 +129,7 @@ Click ok.
 •	Click update. The result will be updated.
 ![image](https://user-images.githubusercontent.com/59958361/176105403-cc1bb6db-0ad2-4e0b-aa1b-d02164a6ab3d.png)
  
-2.2 : To disqualify a player or a team go to Go to DISQUALIFY tab<br />
+#### 2.2 : To disqualify a player or a team go to Go to DISQUALIFY tab<br />
 •	Enter Player ID and click Go (that player will be disqualified).
  ![image](https://user-images.githubusercontent.com/59958361/176105436-b3184169-66d2-40fc-948a-9d641c35355f.png)
 
@@ -137,7 +137,7 @@ Click ok.
 
 ![image](https://user-images.githubusercontent.com/59958361/176105455-21581c37-16d8-46d2-8a92-7360c8f2a7db.png)
 
-2.3 : To add, update or delete  teams or players go to MODIFYDATA1 tab<br />
+#### 2.3 : To add, update or delete  teams or players go to MODIFYDATA1 tab<br />
 
 •	To add to, update or delete data from database.<br />
 •	Enter the new values of new record to be added and click insert.<br />
@@ -155,5 +155,5 @@ Click ok.
 
 Like this batsmen,  bowlers data can also be added modified or deleted.<br />
 
-2.4 : To add, update or delete captains, coaches, umpire, stadium go to MODIFYDAT2 tab<br />
+#### 2.4 : To add, update or delete captains, coaches, umpire, stadium go to MODIFYDAT2 tab<br />
 •	Here captains, stadiums, coaches, umpire data can be added modified or deleted like same way you have done while adding, deleting, updating Team data in previous tab.
