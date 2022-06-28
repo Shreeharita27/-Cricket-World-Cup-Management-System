@@ -35,7 +35,7 @@ Step 7 : The following window will open. Icons may or may not be displayed.
 ![image](https://user-images.githubusercontent.com/59958361/176104107-dc45d8bf-7e30-4176-9c9a-a1b22c89623e.png)
 
 1.USER (Get information about World cup teams, players, matches etc)
-1.1 : To get Teams information go to Teams tab
+1.1 : To get Teams information go to Teams tab<br />
 •	If you are a normal user you can get all details about Worldcup in the USER tab. 
 
 ![image](https://user-images.githubusercontent.com/59958361/176104150-3c788ac6-2be8-47c2-8d6f-292d796cd9e9.png)
@@ -48,7 +48,7 @@ Step 7 : The following window will open. Icons may or may not be displayed.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104361-748db21b-3d52-41d4-b6e7-d99de3fd835f.png)
 
-1.2 : To get player info open Player tab
+1.2 : To get player info open Player tab<br />
 •	In player tab you can enter team Id and get all players by clicking All players,
 Batsmen and Bowlers of a particular team.
 
@@ -68,7 +68,7 @@ Batsmen and Bowlers of a particular team.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104612-ab68c610-4620-44cb-b67b-52b20d3e840c.png)
 
-1.3 : To get info about matches open Matches tab
+1.3 : To get info about matches open Matches tab<br />
 •	Get info of all matches by clicking display all matches.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104658-24683a25-3e5f-4b14-a091-f29b3fdcb65a.png)
@@ -81,7 +81,7 @@ Batsmen and Bowlers of a particular team.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104722-d0f766d9-be3c-495a-890b-0a708bbfbc1f.png)
 
-1.4 :  To get captain, stadiums, coaches, umpires info open Other Info tab
+1.4 :  To get captain, stadiums, coaches, umpires info open Other Info tab<br />
 
 •	click Display all captains  to get info of captains of all teams.
 
@@ -104,16 +104,16 @@ Batsmen and Bowlers of a particular team.
 ![image](https://user-images.githubusercontent.com/59958361/176105115-a42a7a69-b956-4465-89b4-ecfa91b68df9.png)
 
 
-2.ADMIN
-•	If you are admin enter your username(vikram) and password( vikky625 ) and click Login. 
+2.ADMIN<br />
+•	If you are admin enter your username(vikram) and password( vikky625 ) and click Login. <br />
 •	Another window will open where all the admin activities can be done.
  
  ![image](https://user-images.githubusercontent.com/59958361/176105143-1f07c3a1-0c3f-42a9-b081-9c5d4ff5204e.png)
 
 
-2.1 :  To schedule matches and update result go to SCHEDULE MATCHES tab
-•	To schedule a match enter Team ids of both teams ,the date and time of match ,it’s venue(stadium) and 3 umpires who will umpire the matches
-•	Then click schedule. A confirmation message is displayed with match number
+2.1 :  To schedule matches and update result go to SCHEDULE MATCHES tab<br />
+•	To schedule a match enter Team ids of both teams ,the date and time of match ,it’s venue(stadium) and 3 umpires who will umpire the matches<br />
+•	Then click schedule. A confirmation message is displayed with match number<br />
 Click ok.
 
 ![image](https://user-images.githubusercontent.com/59958361/176105239-f7ded274-81cd-43e8-ba9c-6583bb314d16.png)
@@ -124,12 +124,12 @@ Click ok.
 •	To cancel the match enter Match ID and click cancel. 
 ![image](https://user-images.githubusercontent.com/59958361/176105340-34f3bbac-3c75-4640-a8f0-3771278d8223.png)
 
-•	To update the result of a match enter it’s match ID if it is draw click on update match draw button. Otherwise enter winner team ID . Select whether they won match by wickets or runs select respective button.
-•	Enter number of wickets or runs in Won by wickets or runs.
+•	To update the result of a match enter it’s match ID if it is draw click on update match draw button. Otherwise enter winner team ID . Select whether they won match by wickets or runs select respective button.<br />
+•	Enter number of wickets or runs in Won by wickets or runs.<br />
 •	Click update. The result will be updated.
 ![image](https://user-images.githubusercontent.com/59958361/176105403-cc1bb6db-0ad2-4e0b-aa1b-d02164a6ab3d.png)
  
-2.2 : To disqualify a player or a team go to Go to DISQUALIFY tab
+2.2 : To disqualify a player or a team go to Go to DISQUALIFY tab<br />
 •	Enter Player ID and click Go (that player will be disqualified).
  ![image](https://user-images.githubusercontent.com/59958361/176105436-b3184169-66d2-40fc-948a-9d641c35355f.png)
 
@@ -137,23 +137,23 @@ Click ok.
 
 ![image](https://user-images.githubusercontent.com/59958361/176105455-21581c37-16d8-46d2-8a92-7360c8f2a7db.png)
 
-2.3 : To add, update or delete  teams or players go to MODIFYDATA1 tab
+2.3 : To add, update or delete  teams or players go to MODIFYDATA1 tab<br />
 
-•	To add to, update or delete data from database.
-•	Enter the new values of new record to be added and click insert.
-•	A message box will be displayerd and your data will be saved.
+•	To add to, update or delete data from database.<br />
+•	Enter the new values of new record to be added and click insert.<br />
+•	A message box will be displayerd and your data will be saved.<br />
 
 ![image](https://user-images.githubusercontent.com/59958361/176105497-1c80b606-6cb5-46fe-8752-6ecb695f24b6.png)
 
 •	You can also update any table data by entering updated values and click update.
 ![image](https://user-images.githubusercontent.com/59958361/176105516-768c906b-5c25-42fa-977c-4292e328ea7e.png)
 
-•	To delete a team Enter a TeamID and click delete.
+•	To delete a team Enter a TeamID and click delete.<br />
 •	A message box will be displayed and your data will be deleted.
  
 ![image](https://user-images.githubusercontent.com/59958361/176105539-aa76a7d5-71aa-4630-abe8-25655978fc42.png)
 
-Like this batsmen,  bowlers data can also be added modified or deleted.
+Like this batsmen,  bowlers data can also be added modified or deleted.<br />
 
-2.4 : To add, update or delete captains, coaches, umpire, stadium go to MODIFYDAT2 tab
+2.4 : To add, update or delete captains, coaches, umpire, stadium go to MODIFYDAT2 tab<br />
 •	Here captains, stadiums, coaches, umpire data can be added modified or deleted like same way you have done while adding, deleting, updating Team data in previous tab.
