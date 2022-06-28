@@ -1,6 +1,6 @@
 # -Cricket-World-Cup-Management-System
 A database management system using MYSQL for cricket world cup with GUI( Graphical user interface developed using Python and Qt designer) to store, retrieve, update and delete the data of respective teams and their matches played.
-PREREQUISITES :
+#### PREREQUISITES :
 1.	DB BROWSER(SQLITE) AND CREATE TABLES .
 https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.msi
 2.	INSTALLED  PYTHON
@@ -12,25 +12,25 @@ https://build-system.fman.io/qt-designer-download
 
 
 ## STEPS TO BE FOLLOWED:
-Step 1: Extract the given zip folder.<br />
-Step 2 : Open Visual Studio.<br />
-Step 3: Click on Open folder.<br />
+#### Step 1: Extract the given zip folder.<br />
+#### Step 2 : Open Visual Studio.<br />
+#### Step 3: Click on Open folder.<br />
 
 ![image](https://user-images.githubusercontent.com/59958361/176100438-b3fde2ee-0f4b-44ac-b192-4a0b1a1d44e1.png)
 
-Step 4: Select the GUI folder inside the folder that you got after extracting given zip file.
+#### Step 4: Select the GUI folder inside the folder that you got after extracting given zip file.
 
 ![image](https://user-images.githubusercontent.com/59958361/176103982-88dc4339-2345-4556-862d-69a0457e0b11.png)
 
-Step 5: Search final2.py file and open it.
+#### Step 5: Search final2.py file and open it.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104021-a37faab2-a89f-42ed-b541-6db06fcf6256.png)
 
-Step 6: Run the code (as shown below).
+#### Step 6: Run the code (as shown below).
 
 ![image](https://user-images.githubusercontent.com/59958361/176104065-119b3647-d218-41e1-a1b6-d9b0945560f4.png)
 
-Step 7 : The following window will open. Icons may or may not be displayed.
+#### Step 7 : The following window will open. Icons may or may not be displayed.
 
 ![image](https://user-images.githubusercontent.com/59958361/176104107-dc45d8bf-7e30-4176-9c9a-a1b22c89623e.png)
 
