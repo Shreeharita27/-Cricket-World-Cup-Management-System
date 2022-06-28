@@ -9,3 +9,9 @@ https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.msi
 https://www.sqlite.org/2021/sqlite-tools-win32-x86-3350500.zip
 5.	QT5 DESIGNER (FOR DESIGNING GUI )	
 https://build-system.fman.io/qt-designer-download
+
+
+##**STEPS TO BE FOLLOWED:**
+Step 1: Extract the given zip folder. 
+Step 2 : Open Visual Studio.
+Step 3: Click on Open folder.
